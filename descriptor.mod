@@ -10,3 +10,4 @@ tags={
 }
 name="Cultural Convergence"
 supported_version="1.33.3"
+replace_path = "provinces"
